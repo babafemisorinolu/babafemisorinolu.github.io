@@ -501,7 +501,21 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%62%61%62%61%66%65%6D%69.%73%6F%72%69%6E%6F%6C%75@%68%6F%75%67%68%74%6F%6E.%65%64%75", "_blank");
+        },
+      },{
+        id: 'social-facebook',
+        title: 'Facebook',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://facebook.com/femisorinolu", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/babafemisorinolu", "_blank");
         },
       },{
         id: 'social-inspire',
@@ -509,6 +523,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/babafemisorinolu", "_blank");
         },
       },{
         id: 'social-rss',
@@ -522,14 +543,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=RwV5orcAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
