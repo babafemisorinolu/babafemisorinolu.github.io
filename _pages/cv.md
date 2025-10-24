@@ -6,8 +6,8 @@ nav: true
 nav_order: 5
 cv_pdf: "https://docs.google.com/document/d/19N9Q-E2Kam9Nmtr7_uw1dpP1LCqi5OC2IqyVOtGchgU/export?format=pdf"
 description: My latest curriculum vitae, viewable and downloadable as a PDF.
-toc:
-  sidebar: left
+# toc:
+  # sidebar: left
 ---
 <!-- Optional: Embed Google Docs PDF preview -->
 <iframe
