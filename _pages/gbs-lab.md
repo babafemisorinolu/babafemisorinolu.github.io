@@ -1,7 +1,7 @@
 ---
 layout: redirect
-title: "GBS Lab"
-permalink: /gbs-lab/
+title: "research"
+permalink: /research/
 nav: true
 nav_order: 6
 redirect_url: "https://gbs-lab.dev"
