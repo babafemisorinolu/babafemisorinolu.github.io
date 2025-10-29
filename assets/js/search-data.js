@@ -415,15 +415,15 @@ ninja.data = [{
             },},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
           title: 'Started a summer research project with Isaac and Ash working on Application of...',
           description: "",
+          section: "News",},{id: "news-our-paper-designing-for-reflective-learning-a-voice-based-assistant-for-intentional-llm-use-in-education-was-accepted-sparkles-smile-for-presentation-at-ccsc-nw-2025-we-ll-be-presenting-at-saint-martin-s-university-on-october-10-11-2025",
+          title: 'Our paper “Designing for Reflective Learning: A Voice-Based Assistant for Intentional LLM Use...',
+          description: "",
           section: "News",},{id: "news-",
           title: '',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_02/";
-            },},{id: "news-our-paper-designing-for-reflective-learning-a-voice-based-assistant-for-intentional-llm-use-in-education-was-accepted-sparkles-smile-for-presentation-at-ccsc-nw-2025-we-ll-be-presenting-at-saint-martin-s-university-on-october-10-11-2025",
-          title: 'Our paper “Designing for Reflective Learning: A Voice-Based Assistant for Intentional LLM Use...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
