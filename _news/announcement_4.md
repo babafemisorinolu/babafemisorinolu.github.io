@@ -12,10 +12,18 @@ The paper was co-authored by **Eric C. Waterhouse**,  **Pelumi Abimbola**, **Ayo
 
 We traveled to **Saint Martin’s University** for the conference, where **Eric presented the work** on **October 10–11, 2025**. It was inspiring to see a student capstone project showcased in a professional setting.  
 
-📸 Here’s a snapshot of **Eric** presenting our paper at the conference:  
-![Eric presenting at CCSC NW 2025](/assets/img/eric_at_ccsc.jpg)
+📸 Here’s a snapshot of **Eric** presenting our paper at the conference: 
 
-![Me and Eric at CCSC NW 2025! 🎉](/assets/img/babafemi_and_eric.jpg)
+<div class="row">
+  <div class="col-sm-6 clearfix">
+    <img src="/assets/img/eric_at_ccsc.jpg" alt="Eric presenting at CCSC NW 2025" style="width: 100%; height: auto;">
+    <p class="text-center"><em>Eric presenting our paper.</em></p>
+  </div>
+  <div class="col-sm-6 clearfix">
+    <img src="/assets/img/babafemi_and_eric.jpg" alt="Me and Eric at CCSC NW 2025! 🎉" style="width: 100%; height: auto;">
+    <p class="text-center"><em>Me and Eric at CCSC NW 2025!</em></p>
+  </div>
+</div>
 
 After the conference, we celebrated by visiting a **Nigerian restaurant** nearby. it was a perfect way to wrap up a successful event and a great trip!  
 🍽️ [View our dinner photo here](/assets/img/dinner.jpg)
