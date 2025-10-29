@@ -25,6 +25,5 @@ We traveled to **Saint Martin’s University** for the conference, where **Eric 
   </div>
 </div>
 
-After the conference, we celebrated by visiting a **Nigerian restaurant** nearby. it was a perfect way to wrap up a successful event and a great trip!  
-🍽️ 
+After the conference, we celebrated by visiting a **Nigerian restaurant** 🍽️ nearby. it was a perfect way to wrap up a successful event and a great trip!  
 <img src="/assets/img/dinner.jpg" alt="Eric at Nigerian restaurant" style="width: 50%;">
