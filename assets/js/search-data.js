@@ -412,17 +412,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
+            },},{id: "news-hello-world-i-m-starting-this-news-section",
+          title: 'Hello, world! I’m starting this news section!',
+          description: "",
+          section: "News",},{id: "news-i-am-now-an-assistant-professor-in-the-cs-dept-at-houghton-university-ny",
+          title: 'I am now an Assistant Professor in the CS dept at Houghton University,...',
+          description: "",
+          section: "News",},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
           title: 'Started a summer research project with Isaac and Ash working on Application of...',
           description: "",
           section: "News",},{id: "news-our-paper-designing-for-reflective-learning-a-voice-based-assistant-for-intentional-llm-use-in-education-was-accepted-sparkles-smile-for-presentation-at-ccsc-nw-2025-we-ll-be-presenting-at-saint-martin-s-university-on-october-10-11-2025",
           title: 'Our paper “Designing for Reflective Learning: A Voice-Based Assistant for Intentional LLM Use...',
           description: "",
-          section: "News",},{id: "news-",
-          title: '',
+          section: "News",},{id: "news-student-paper-accepted-at-ccsc-nw-2025",
+          title: 'Student Paper Accepted at CCSC NW 2025! 🎉',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
