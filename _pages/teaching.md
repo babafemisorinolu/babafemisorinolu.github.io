@@ -2,12 +2,10 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Materials for courses I have taught.
 nav: true
 nav_order: 3
 ---
-
-## Teaching
 
 I have had the privilege of teaching a range of undergraduate courses across core and advanced areas of computer science.  
 My teaching emphasizes active learning, project-based exploration, and the development of strong problem-solving and software design skills.
@@ -19,6 +17,12 @@ My teaching emphasizes active learning, project-based exploration, and the devel
 #### STEM 140 – Reason and Abstraction: World of Computing  
 **Semesters:**  Fall 2024, Fall 2026  
 An introduction to the fundamental ideas of computation, abstraction, and logic. Students explore problem-solving through algorithmic thinking and learn how computing principles connect to real-world applications.
+
+---
+
+#### CSCI 211 – Programming I (Python)  
+**Semesters:** Fall 2025
+An introduction to programming and problem-solving using Python. Covers fundamental concepts such as data types, control structures, functions, and basic algorithms. Students gain hands-on experience through interactive coding exercises and projects.
 
 ---
 
@@ -47,7 +51,7 @@ Introduces database design, relational models, SQL, normalization, and transacti
 ---
 
 #### CSCI 345 – Machine Learning  
-**Semesters:** Fall 2024 
+**Semesters:** Fall 2024  
 A hands-on introduction to the fundamentals of machine learning. Topics include supervised and unsupervised learning, model evaluation, and applications of ML algorithms using Python-based toolkits.
 
 ---
