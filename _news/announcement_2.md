@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Excited to Announce: Student Paper Accepted at CCSC NW 2025! 🎉
-date: 22025-08-07 09:00:00-0000
+date: 2025-08-07 09:00:00-0000
 inline: false
 related_posts: false
 ---
