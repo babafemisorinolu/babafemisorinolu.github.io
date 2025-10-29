@@ -8,7 +8,7 @@ subtitle: Assistant Professor | Computer Science | Educator & Researcher
 profile:
   align: right
   image: prof_pic.webp
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>209B Paine Building</p>
     <p>1 Willard Ave,</p>
