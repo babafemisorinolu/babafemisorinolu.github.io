@@ -1,33 +1,26 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Excited to Announce: Student Paper Accepted at CCSC NW 2025! 🎉
+date: 22025-08-07 09:00:00-0000
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Our paper *“Designing for Reflective Learning: A Voice-Based Assistant for Intentional LLM Use in Education”* was accepted :sparkles: :smile: for presentation at *CCSC NW 2025*! We’ll be presenting at **Saint Martin’s University** on **October 10–11, 2025**
+
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+I am proud to share that our paper, *“Designing for Reflective Learning: A Voice-Based Assistant for Intentional LLM Use in Education,”* was accepted for presentation at the **Consortium for Computing Sciences in Colleges, Northwestern Conference (CCSC NW 2025)**! ✨  
 
-#### Hipster list
+The paper was co-authored by **Eric C. Waterhouse**,  **Pelumi Abimbola**, **Ayodeji Ibitoye**, and myself (**Babafemi G. Sorinolu**), and originated from **Eric’s senior capstone project**, which I had the pleasure of supervising. This work explores the design of a **voice-based assistant** to support **reflective and intentional use of large language models (LLMs) in education**.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+We traveled to **Saint Martin’s University** for the conference, where **Eric presented the work** on **October 10–11, 2025**. It was inspiring to see a student capstone project showcased in a professional setting.  
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+📸 Here’s a snapshot of **Eric** presenting our paper at the conference:  
+![Eric presenting at CCSC NW 2025](/assets/img/eric_at_ccsc.jpg)
 
----
+![Me and Eric at CCSC NW 2025! 🎉](/assets/img/babafemi_and_eric.jpg)
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+After the conference, we celebrated by visiting a **Nigerian restaurant** nearby. it was a perfect way to wrap up a successful event and a great trip!  
+🍽️ [View our dinner photo here](/assets/img/dinner.jpg)
