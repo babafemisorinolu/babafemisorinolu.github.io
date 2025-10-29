@@ -419,9 +419,12 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_02/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
+          title: 'Started a summer research project with Isaac and Ash working on Application of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
