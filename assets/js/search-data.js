@@ -418,14 +418,29 @@ ninja.data = [{
           section: "News",},{id: "news-i-am-now-an-assistant-professor-in-the-cs-dept-at-houghton-university-ny",
           title: 'I am now an Assistant Professor in the CS dept at Houghton University,...',
           description: "",
-          section: "News",},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
+          section: "News",},{id: "news-students-present-at-the-penn-york-undergraduate-research-conference-2024",
+          title: 'Students Present at the Penn-York Undergraduate Research Conference 2024! 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2024_1/";
+            },},{id: "news-students-present-at-paul-university-s-second-annual-undergraduate-research-day",
+          title: 'Students Present at Paul University’s Second Annual Undergraduate Research Day! 🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2025_1/";
+            },},{id: "news-started-a-summer-research-project-with-isaac-and-ash-working-on-application-of-virtual-reality-vr-in-education",
           title: 'Started a summer research project with Isaac and Ash working on Application of...',
           description: "",
           section: "News",},{id: "news-student-paper-accepted-at-ccsc-nw-2025",
           title: 'Student Paper Accepted at CCSC NW 2025! 🎉',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
+              window.location.href = "/news/announcement_2025_3/";
+            },},{id: "news-student-presentation-at-the-51st-annual-fall-scientific-paper-session-suny-genesso",
+          title: 'Student Presentation at the 51st Annual Fall Scientific Paper Session, SUNY Genesso! 🎉...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2025_4/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
