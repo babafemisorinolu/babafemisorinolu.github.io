@@ -423,8 +423,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2024_1/";
-            },},{id: "news-students-present-at-paul-university-s-second-annual-undergraduate-research-day",
-          title: 'Students Present at Paul University’s Second Annual Undergraduate Research Day! 🎉',
+            },},{id: "news-students-present-at-houghton-university-s-second-annual-undergraduate-research-day",
+          title: 'Students Present at Houghton University’s Second Annual Undergraduate Research Day! 🎉',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_1/";
