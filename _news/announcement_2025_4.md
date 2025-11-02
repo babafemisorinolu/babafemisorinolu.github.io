@@ -6,7 +6,8 @@ inline: false
 related_posts: false
 ---
 
-I am thrilled to share that **Isaac Anderson** presented our summer research project, *“Augmenting Student Learning with AI and Mixed Reality in Higher Education,”* at the **51st Annual Fall Scientific Paper Session of the Rochester Academy of Science (RAS)**, hosted at **SUNY Geneseo (2025)**!  ✨  
+I am thrilled to share that **Isaac Anderson** presented our summer research project, *“Augmenting Student Learning with AI and Mixed Reality in Higher Education,”* at the **51st Annual Fall Scientific Paper Session of the Rochester Academy of Science (RAS)**, hosted at **SUNY Geneseo (2025)**!  ✨  📄 [View Program (PDF)](/assets/pdf/51st%20Annual%20Paper%20Session%20Program%20V3.pdf){:target="_blank"}
+
 
 This project explores how **Artificial Intelligence (AI)** and **Mixed Reality (MR)** can work together to enhance learning experiences in higher education. Our team developed a **prototype multidisciplinary learning system** that combines:  
 1️⃣ a **Mixed Reality (MR)** platform using the **Meta Quest 3** with an **AI-powered tutor** for immersive learning, and  
