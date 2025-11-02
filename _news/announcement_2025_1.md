@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Students Present at Paul University’s Second Annual Undergraduate Research Day! 🎉
+title: Students Present at Houghton University’s Second Annual Undergraduate Research Day! 🎉
 date: 2025-04-29 09:00:00-0000
 inline: false
 related_posts: false
