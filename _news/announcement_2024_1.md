@@ -14,7 +14,6 @@ Two of our students presented their projects — one as an **oral presentation**
 ### 🗣️ Oral Presentation  
 **Ashleigh Gossman**, and **Babafemi G. Sorinolu (2024)**  
 *“Survey on Trust, Opinions, and Use of ChatGPT.”*  
-**The Penn-York Undergraduate Research Conference**, Houghton University, November 16, 2024.  
 
 Ashleigh’s oral presentation explored how students and educators **perceive and trust AI tools like ChatGPT** in academic settings. The study surveyed diverse users to understand patterns in adoption, ethical concerns, and perceptions of reliability, offering valuable insight into how AI technologies are reshaping learning environments.  
 
@@ -23,7 +22,7 @@ Ashleigh’s oral presentation explored how students and educators **perceive an
 ### 📊 Poster Presentation  
 **Isaac Gassparri**, and **Babafemi G. Sorinolu (2024)**  
 *“Comparative Analysis of LLMs for Math Education.”*  
-**The Penn-York Undergraduate Research Conference**, Houghton University, November 16, 2024.  
+
 
 Isaac’s poster compared the performance of several **Large Language Models (LLMs)** in solving and explaining mathematical problems. The project analyzed model accuracy, reasoning depth, and pedagogical clarity, contributing to the development of more effective **AI tools for mathematics instruction**.  
 

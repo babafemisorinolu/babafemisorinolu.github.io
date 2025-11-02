@@ -26,16 +26,16 @@ The event showcased innovative undergraduate research across disciplines, and ou
 >  
 > We propose a low-cost prototype audio transcription and language translation device using a Raspberry Pi. This device will be able to process audio inputs using the SpeechRecognition API to achieve its multilingual audio transcription, utilize the Meta AI (LLaMA) Large Language Model to translate the text to the users choice language, and display the text on an accessible user interface. We expect this device to enhance communication among people of different languages or hearing impaired communities.  
 
-📸 Here’s a snapshot of one presenter sharing his work:  
+📸 Here are some highlights from the conference:  
 
 <div class="row">
   <div class="col-sm-6 clearfix">
     <img src="/assets/img/avery_urc2025_1.jpg" alt="Avery presenting at Houghton University Research Day" style="width: 100%; height: auto;">
-    <p class="text-center"><em>Avery sharing our low-cost transcription and translation prototype”</em></p>
+  
   </div>
   <div class="col-sm-6 clearfix">
     <img src="/assets/img/avery_urc2025_2.jpg" alt="Avery presenting at Houghton University Research Day" style="width: 100%; height: auto;">
-    <p class="text-center"><em>Second Annual Research Day -2025</em></p>
+   
   </div>
 </div>
 
