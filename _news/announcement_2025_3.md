@@ -12,6 +12,11 @@ The paper was co-authored by **Eric C. Waterhouse**,  **Pelumi Abimbola**, **Ayo
 
 We traveled to **Saint Martin’s University** for the conference, where **Eric presented the work** on **October 10–11, 2025**. It was inspiring to see a student capstone project showcased in a professional setting.  
 
+[Download our slides (PDF)](/assets/pdf/CCSC_NW2025_Presentation.pdf)
+
+<embed src="/assets/pdf/CCSC_NW2025_Presentation.pdf" type="application/pdf" width="100%" height="600px" />
+
+
 📸 Here’s a snapshot of **Eric** presenting our paper at the conference:  
 
 <div class="row">
