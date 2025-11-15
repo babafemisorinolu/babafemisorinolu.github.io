@@ -441,6 +441,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_4/";
+            },},{id: "news-participate-in-our-learnmr-vr-prototype-study-️-️",
+          title: 'Participate in Our LearnMR VR Prototype Study! 🖥️🕶️',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2025_5/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
