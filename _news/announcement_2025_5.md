@@ -22,23 +22,36 @@ The session will take approximately **15–30 minutes**.
 
 <table>
 <tr>
-<td align="center">
-#### 1️⃣ Sign Up for a Session
-**Link:** [Schedule a time on Calendly](https://calendly.com/gbs-obcli/learn_mr)  
 
-**QR Code (Session Signup):**  
+<td align="center" style="padding: 10px;">
+
+<h4>1.Sign Up for a Session</h4>
+
+<p><strong>Link:</strong> 
+<a href="https://calendly.com/gbs-obcli/learn_mr">Schedule a time on Calendly</a></p>
+
+<p><strong>QR Code (Session Signup):</strong></p>
+
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://calendly.com/gbs-obcli/learn_mr" alt="Signup QR">
+
 </td>
 
-<td align="center">
-#### 2️⃣ Take the Survey After Your Session
-**Link:** [Complete the survey](https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview)  
+<td align="center" style="padding: 10px;">
 
-**QR Code (Survey):**  
+<h4>2.Take the Survey After Your Session</h4>
+
+<p><strong>Link:</strong> 
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview">Complete the survey</a></p>
+
+<p><strong>QR Code (Survey):</strong></p>
+
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview" alt="Survey QR">
+
 </td>
+
 </tr>
 </table>
+
 
 
 ### Purpose of the Study
