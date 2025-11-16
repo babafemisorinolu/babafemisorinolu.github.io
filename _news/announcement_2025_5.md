@@ -6,8 +6,7 @@ inline: false
 related_posts: false
 ---
 
-We are conducting a **usability and feedback study** for our **LearnMR VR prototype**, a Virtual Reality application designed to teach **data structures concepts**. The prototype includes an AI-enhanced virtual tablet that provides **supplemental learning support**, but it is *not* the main method of instruction.  
-Your participation will help us improve the design, interaction, and educational effectiveness of the prototype.
+We are conducting a **usability and feedback study** for our **LearnMR VR prototype**, a Virtual Reality application designed to teach **data structures concepts**. Your participation will help us improve the design, interaction, and educational effectiveness of the prototype.
 
 ### What’s involved?
 If you agree to participate, you will:
