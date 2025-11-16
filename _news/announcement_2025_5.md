@@ -16,29 +16,32 @@ If you agree to participate, you will:
 
 The session will take approximately **15–30 minutes**.
 
+---
 
 ### How to Participate
-
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
 
 <div style="flex: 1; text-align: center;">
-#### 1️⃣ **Sign Up for a Session**  
+
+#### 1.**Sign Up for a Session**  
 **Link:** [Schedule a time on Calendly](https://calendly.com/gbs-obcli/learn_mr)  
 
-**QR Code:**  
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://calendly.com/gbs-obcli/learn_mr" alt="Signup QR">
+**QR Code (Session Signup):**  
+![Signup QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://calendly.com/gbs-obcli/learn_mr)
+
+---
 </div>
 
 <div style="flex: 1; text-align: center;">
-#### 2️⃣ **Take the Survey After Your Session**  
+
+#### 2.**Take the Survey After Your Session**  
 **Link:** [Complete the survey](https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview)  
 
-**QR Code:**  
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview" alt="Survey QR">
-</div>
+**QR Code (Survey):**  
+![Survey QR](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview)
 
+---
 </div>
-
 
 ### Purpose of the Study
 The goal of this research is to **evaluate the usability and design** of our VR learning application using **heuristics and usability questions based on Jakob Nielsen’s principles**, adapted for VR and AI-supported interactions. Feedback from participants will guide improvements to ensure the system is intuitive, engaging, and effective for learning **data structures concepts**.
