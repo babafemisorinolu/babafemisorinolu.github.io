@@ -13,7 +13,7 @@ If you agree to participate, you will:
 1. Interact with our VR prototype.
 2. Complete a short questionnaire about your experience.
 
-The VR session will take approximately **25–30 minutes**.
+The VR session will take approximately **25–30 minutes**, followed by a **10–15 minute** questionnaire.
 
 ---
 
