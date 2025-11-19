@@ -35,7 +35,7 @@ The VR session will take approximately **25â€“30 minutes**, followed by a **10â€
 
 </td>
 
-<!-- <td align="center" style="padding: 10px;">
+<td align="center" style="padding: 10px;">
 
 <h4>2.Take the Survey After Your Session</h4>
 
@@ -46,7 +46,7 @@ The VR session will take approximately **25â€“30 minutes**, followed by a **10â€
 
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://docs.google.com/forms/d/e/1FAIpQLScfz11r08z9CJjA_gIpESTHpGmbiEWV2aLBUVPfLuQrQzi6-A/viewform?usp=preview" alt="Survey QR">
 
-</td> -->
+</td>
 
 </tr>
 </table>
