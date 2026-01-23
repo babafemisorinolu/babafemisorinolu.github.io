@@ -30,14 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-research",
-          title: "research",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/research/";
-          },
-        },{id: "nav-cv",
+        },{id: "dropdown-research-lab",
+              title: "Research Lab",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-conference-deadlines",
+              title: "Conference Deadlines",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "nav-cv",
           title: "CV",
           description: "My latest curriculum vitae, viewable and downloadable as a PDF.",
           section: "Navigation",
