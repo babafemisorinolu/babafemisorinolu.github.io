@@ -6,12 +6,14 @@ nav_order: 4
 dropdown: true
 children:
   - title: Research Lab
-    url: https://gbs-lab.dev
+    permalink: /research-lab/ 
+    redirect_url: "https://gbs-lab.dev"
 
   - title: divider
 
   - title: Conference Deadlines
-    url: https://joshuagl.github.io/cer-deadlines/
+    permalink: /conference-deadlines/
+    redirect_url: "https://joshuagl.github.io/cer-deadlines/"
 ---
 <!-- ---
 layout: redirect
