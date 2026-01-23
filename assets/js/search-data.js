@@ -35,14 +35,14 @@ ninja.data = [{
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
+                window.location.href = "/research-lab/";
               },
             },{id: "dropdown-conference-deadlines",
               title: "Conference Deadlines",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "";
+                window.location.href = "/conference-deadlines/";
               },
             },{id: "nav-cv",
           title: "CV",
