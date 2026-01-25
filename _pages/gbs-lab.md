@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: "Research Lab"
+title: "research lab"
 permalink: /research-lab/
 nav: false
 nav_order: 4

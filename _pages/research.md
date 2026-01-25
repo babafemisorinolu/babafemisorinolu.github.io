@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Research
+title: research
 nav: true
 nav_order: 4
 dropdown: true
 children:
-  - title: Research Lab
+  - title: research lab
     permalink: /research-lab/ 
     redirect_url: "https://gbs-lab.dev"
 
   - title: divider
 
-  - title: Conference Deadlines
+  - title: conference deadlines
     permalink: /conference-deadlines/
     redirect_url: "https://joshuagl.github.io/cer-deadlines/"
 ---

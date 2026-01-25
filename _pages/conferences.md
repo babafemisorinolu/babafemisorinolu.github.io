@@ -1,6 +1,6 @@
 ---
 layout: redirect
-title: "Conference Deadlines"
+title: "conference deadlines"
 permalink: /conference-deadlines/
 nav: false
 nav_order: 4
