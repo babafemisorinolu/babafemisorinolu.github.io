@@ -20,7 +20,7 @@ For those connected to the Australasian region, the <a href="https://acsw.core.e
 
 * The <a href="https://aceconference2026.github.io/">28th Australasian Computing Education Conference (ACE 2026)</a> is a long-running venue dedicated specifically to computing education research, often featuring work on teaching practices, student learning, and curriculum development.
 
-* The <a href="https://mum-conf.org/2026/index.php"> 25th International Conference on Mobile and Ubiquitous Multimedia
+* The <a href="https://mum-conf.org/2026/index.php"> 25th International Conference on Mobile and Ubiquitous Multimedia.
 #### Tips for Getting Started
 
 * Identify the audience: some venues emphasize research rigor, while others value teaching practice and experience reports.
