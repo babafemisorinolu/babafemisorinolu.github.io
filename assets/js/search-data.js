@@ -62,6 +62,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/csEd-venues/";
           
         },
+      },{id: "post-publishing-in-computer-science-education-venues",
+        
+          title: "publishing in computer science education venues",
+        
+        description: "key conferences, organizations, and resources for cs education research",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/csEd-venues/";
+          
+        },
       },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
