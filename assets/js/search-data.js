@@ -37,12 +37,19 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/research-lab/";
               },
-            },{id: "dropdown-conference-deadlines",
-              title: "conference deadlines",
+            },{id: "dropdown-computing-education-conferences",
+              title: "computing education conferences",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/conference-deadlines/";
+                window.location.href = "/csed-conferences/";
+              },
+            },{id: "dropdown-conferences",
+              title: "conferences",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/conferences/";
               },
             },{id: "nav-cv",
           title: "CV",
