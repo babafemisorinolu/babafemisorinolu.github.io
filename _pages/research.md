@@ -11,7 +11,13 @@ children:
 
   - title: divider
 
-  - title: conference deadlines
-    permalink: /conference-deadlines/
+  - title: computing education conferences
+    permalink: /csed-conferences/
     redirect_url: "https://joshuagl.github.io/cer-deadlines/"
+
+  - title: divider
+ 
+  - title: conferences
+    permalink: /conferences/
+    redirect_url: "https://conf.researchr.org/"
 ---
