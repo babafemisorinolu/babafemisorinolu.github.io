@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://me.gbs-lab.dev/sitemap.xml
+Sitemap: https://me.gbslab.me/sitemap.xml
