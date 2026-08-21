@@ -7,7 +7,7 @@ dropdown: true
 children:
   - title: research lab
     permalink: /research-lab/ 
-    redirect_url: "https://gbs-lab.dev"
+    redirect_url: "https://gbslab.me"
 
   - title: divider
 

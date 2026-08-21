@@ -27,7 +27,7 @@ An introduction to programming and problem-solving using Python. Covers fundamen
 ---
 
 #### CSCI 218 – Programming II (Java)  
-**Semesters:** Spring 2024, Spring 2025, Spring 2026  
+**Semesters:** Spring 2024, Spring 2025, Spring 2026, Spring 2027  
 Covers object-oriented programming, data abstraction, inheritance, and interfaces using Java. Students gain hands-on experience with software design, testing, and debugging through practical assignments and projects.
 
 ---
@@ -51,14 +51,20 @@ Introduces database design, relational models, SQL, normalization, and transacti
 ---
 
 #### CSCI 345 – Machine Learning  
-**Semesters:** Fall 2024  
+**Semesters:** Fall 2024, Fall 2026  
 A hands-on introduction to the fundamentals of machine learning. Topics include supervised and unsupervised learning, model evaluation, and applications of ML algorithms using Python-based toolkits.
 
 ---
 
 #### CSCI 295 – Full-Stack Web Development  
-**Semesters:** Spring 2025  
+**Semesters:** Spring 2025, Spring 2027  
 Focuses on modern web development practices, including front-end and back-end integration, RESTful APIs, and database-driven web applications. Students work collaboratively to design, implement, and deploy full-stack projects.
+
+---
+
+#### CSCI 315A – Big Data and Cloud Computing
+**Semesters:** Spring 2027
+Focuses on big data technologies and cloud computing concepts, including distributed data processing, cloud-based storage and computing, data analytics, and scalable application architectures. Students gain hands-on experience with modern tools and platforms for managing, processing, and analyzing large-scale datasets in cloud environments.
 
 ---
 
