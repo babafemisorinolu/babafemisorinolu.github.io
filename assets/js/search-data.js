@@ -119,12 +119,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2025_5/";
-            },},{id: "news-announcement-2026-1",
-          title: 'Announcement_2026_1',
+            },},{id: "news-started-a-summer-research-project-with-noah-and-sophia-in-collaboration-with-willamette-university-exploring-the-use-of-virtual-reality-vr-and-generative-ai-genai-in-education",
+          title: 'Started a summer research project with Noah and Sophia in collaboration with Willamette...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2026_1/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
